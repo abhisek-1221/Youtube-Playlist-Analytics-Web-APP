@@ -7,4 +7,4 @@ Screenshots of the web app
 <img width="1280" alt="Screenshot 2023-02-24 at 12 23 23 PM" src="https://user-images.githubusercontent.com/110292494/230205966-1e81d89e-f1e1-4a17-b782-7719eb181c3a.png">
 <img width="1280" alt="Screenshot 2023-02-24 at 12 23 30 PM" src="https://user-images.githubusercontent.com/110292494/230205971-4df7aa1c-f7fe-4095-82be-b23eacff34a1.png">
 
-The Web App will be available soon for public use after deployment
+The Web App will be available soon for public use after deployment and minor bug fixes
